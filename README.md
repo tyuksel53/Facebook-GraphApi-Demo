@@ -10,7 +10,7 @@ set parameters in [Config.js](config.js)
     pageName: "..."
 }
 ```
-For this paremeters go to  [Facebook for Developers](https://https://developers.facebook.com//) and login with your facebook account. After that  select your app in the **My Apps** Section.İf you don't have any apps, you can create a new one.
+For this paremeters go to  [Facebook for Developers](https://developers.facebook.com/) and login with your facebook account. After that  select your app in the **My Apps** Section.İf you don't have any apps, you can create a new one.
 
 ![App Dashboard](/facebook.PNG)
 
