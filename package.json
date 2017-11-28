@@ -1,0 +1,23 @@
+{
+  "name": "facebook-graphapi-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyuksel53/Facebook-GraphApi-Demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyuksel53/Facebook-GraphApi-Demo/issues"
+  },
+  "homepage": "https://github.com/tyuksel53/Facebook-GraphApi-Demo#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
